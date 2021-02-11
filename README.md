@@ -1,6 +1,6 @@
 
 ANALYSIS ON ELECTRIC CAR- SHARING SERVICE
-#### This is analysis on electric car usage over a given period of time, {Date of current version}
+#### This is analysis on electric car usage over a given period of time, {11/02/2021}
 #### By **Faith Wangari**
 ## Description
 This is an analysis of a 9 day data of Autolib electric car sharing serice to understand the electric car usage over time.
